@@ -18,6 +18,8 @@ div.menu a:hover {
     background-color: #777;
 }
 
+img { max-width: 1020px; }
+
 input[type=text] {
     width: 100px;
     -webkit-transition: width 0.4s ease-in-out;
