@@ -1,0 +1,51 @@
+div.menu {
+    background-color: #E6E6E6;
+    overflow: auto;
+    white-space: nowrap;
+    margin: 0 auto;
+    width: 1140px;
+}
+
+div.menu a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.menu a:hover {
+    background-color: #777;
+}
+
+img { max-width: 500px; }
+
+input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 30%;
+}
+
+#img-container  {
+  text-align: center;
+margin: 0 auto;
+
+}
+
+#discount-message {
+
+  border: thin solid black;
+  margin: 20%;
+  text-align: center;
+}
+
+#img-c  {
+text-align: center;
+height: 20px ;
+width: 20px ;
+
+}
