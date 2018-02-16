@@ -3,7 +3,10 @@ div.menu {
     overflow: auto;
     white-space: nowrap;
     margin: 0 auto;
-    width: 1020px;
+
+    width: 80%;
+    text-align: center;
+
 }
 
 div.menu a {
@@ -16,4 +19,42 @@ div.menu a {
 
 div.menu a:hover {
     background-color: #777;
+}
+
+
+img { max-width: 100%; }
+
+input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 30%;
+}
+
+#img-container  {
+  text-align: center;
+margin: 0 auto;
+border: thin solid black;
+}
+
+#img-container img {
+  height: 160px;
+  width: 160px;
+}
+
+section {
+
+text-align: center;
+
+margin: 0 auto;
+
+}
+
+#content-wapper {
+width: 80%;
+margin: 0 auto;
+text-align: center;
 }
