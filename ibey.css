@@ -31,27 +31,42 @@ input[type=text]:focus {
     width: 30%;
 }
 
-#img-container  {
-  text-align: center;
+#primera-capa  {
+text-align: center;
 margin: 0 auto;
 border: thin solid black;
+margin-bottom: 50px;
+margin-top: 50px;
+padding-bottom: 10px;
 }
 
-#img-container img {
-  height: 160px;
-  width: 160px;
-}
-
-section {
-
-text-align: center;
-
-margin: 0 auto;
-
+#primera-capa img {
+height: 160px;
+width: 160px;
 }
 
 #content-wapper {
 width: 80%;
 margin: 0 auto;
 text-align: center;
+}
+
+#segunda-capa {
+background-color: #ffef74;
+border: thin solid black;
+text-align: left;
+margin: 0 auto;
+margin-bottom: 50px;
+margin-top: 50px;
+padding-bottom: 10px;
+}
+
+#segunda-capa img {
+float: left;
+height: 110px;
+width: 110px;
+}
+
+input[type=button]:focus {
+    width: 10%;
 }
