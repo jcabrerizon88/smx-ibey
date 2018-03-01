@@ -17,3 +17,7 @@
 
   var slideIndex = 1;
   showDivs(slideIndex);
+
+  function plusDivs(n) {
+  showDivs(slideIndex += n);
+  }
