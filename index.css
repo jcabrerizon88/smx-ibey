@@ -145,9 +145,10 @@ padding: 10px;
 float: center;
 }
 
-.box-img-2 {
+.box-img-2 img {
 margin: 0 auto;
-width: 200px;
+width: 10px;
+height: 15px;
 float: center;
 }
 
