@@ -100,5 +100,39 @@ padding: 10px;
 float: left;
 }
 
-.box-img img { width: 95px; }
+#cuarta-capa {
+border: thin solid black;
+text-align: left;
+margin: 0 auto;
+margin-bottom: 40px;
+margin-top: 40px;
+padding-bottom: 300px;
+}
 
+#cuarta-capa img {
+float: center;
+height: 140px;
+width: 170px;
+}
+
+.box-1 {
+text-align: center;
+margin: 0 auto;
+width: 19.285714286%;
+padding: 10px;
+float: right;
+}
+
+.box-img-1 {
+margin: 0 auto;
+padding: 10px;
+float: center;
+}
+
+.box-text-1 {
+font-size: .7em;
+text-align: center;
+margin: 0 auto;
+}
+
+.box-img img { width: 95px; }
