@@ -66,23 +66,6 @@ margin: 0 auto;
 text-align: center;
 }
 
-#segunda-capa {
-background-color: #ffef74;
-border: thin solid black;
-text-align: left;
-margin: 0 auto;
-margin-bottom: 40px;
-margin-top: 40px;  <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
-      <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
-padding-bottom: 20px;
-}
-
-#segunda-capa img {
-float: left;
-height: 110px;
-width: 110px;
-}
-
 
  #tercera-capa {
  border: thin solid black;
@@ -104,18 +87,18 @@ width: 110px;
    text-align: left;
    margin: 0 auto;
    margin-bottom: 20px;
-   margin-top: 20px;
    margin-right: 50px;
-   padding-bottom: 200px;
  }
 
- #sexta-capa {
-   border: thin solid black;
-   text-align: left;
-   margin: 0 auto;
-   margin-bottom: 20px;
-   margin-top: 20px;
- }
+#footer-wapper {
+  float: left;
+  height: 12%;
+  padding-right: 10px;
+  margin: 0;
+  list-style: none;
+  min-width: 177px;
+  *width: 177px;
+}
 
 input[type=button]:focus {
     width: 10%;}
