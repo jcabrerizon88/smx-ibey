@@ -1,0 +1,178 @@
+* { box-sizing: border-box;}
+
+.clearfix { clear: both; }
+
+div.menu {
+    background-color: #E6E6E6;
+    overflow: auto;
+    white-space: nowrap;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+div.menu a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.menu a:hover {
+    background-color: #777;
+}
+
+img { max-width: 100%; }
+
+input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 30%;
+}
+
+#primera-capa  {
+border: thin solid black;
+text-align: center;
+margin: 0 auto;
+margin-bottom: 30px;
+margin-top: 30px;
+}  <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
+      <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
+
+#primera-capa img {
+margin-left: 20px;
+margin-right: 10px;
+height: 95px;
+width: 95px;
+}
+
+#conjunto-1 {  <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
+      <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
+text-align: center;
+}
+
+#texto-primera-capa {
+text-align: center;
+}
+
+#content-wapper {
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+
+#segunda-capa {
+background-color: #ffef74;
+border: thin solid black;
+text-align: left;
+margin: 0 auto;
+margin-bottom: 40px;
+margin-top: 40px;  <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
+      <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css"/>
+padding-bottom: 20px;
+}
+
+#segunda-capa img {
+float: left;
+height: 110px;
+width: 110px;
+}
+
+
+ #tercera-capa {
+ border: thin solid black;
+ text-align: left;
+ margin: 0 auto;
+ margin-bottom: 40px;
+ margin-top: 40px;
+ padding-bottom: 230px;
+ }
+
+ #tercera-capa img {
+ float: center;
+ height: 140px;
+ width: 170px;
+ }
+
+ #cuarta-capa {
+   border: thin solid black;
+   text-align: left;
+   margin: 0 auto;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   margin-right: 50px;
+   padding-bottom: 200px;
+ }
+
+ #sexta-capa {
+   border: thin solid black;
+   text-align: left;
+   margin: 0 auto;
+   margin-bottom: 20px;
+   margin-top: 20px;
+ }
+
+input[type=button]:focus {
+    width: 10%;}
+
+.box {
+text-align: center;
+margin: 0 auto;
+width: 14.285714286%;
+padding: 10px;
+float: left;
+}
+
+.box-1 {
+text-align: center;
+margin: 0 auto;
+width: 19.285714286%;
+padding: 10px;
+float: right;
+}
+.box-3 {
+margin: 0 auto;
+width: 100%;
+}
+
+.box-2.2 {
+margin: 0 auto;
+width: 100%;
+}
+
+.box-4 {
+margin: 0 auto;
+width: 100%;
+}
+
+.box-img-1 {
+margin: 0 auto;
+padding: 10px;
+float: left;
+}
+
+.box-img-2 img {
+margin: 0 auto;
+float: right;
+width: 50%;
+height: 50%;
+}
+
+.box-text-3 {
+  font-size: 50m;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.box-text-1 {
+font-size: .7em;
+text-align: center;
+margin: 0 auto;
+}
+
+.box-img img { width: 95px; }
