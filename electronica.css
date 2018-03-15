@@ -7,7 +7,7 @@ div.menu {
     overflow: auto;
     white-space: nowrap;
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
     text-align: center;
 }
 
@@ -36,7 +36,6 @@ input[type=text]:focus {
 }
 
 #primera-capa  {
-border: thin solid black;
 margin: 0 auto;
 margin-bottom: 30px;
 margin-top: 30px;
@@ -65,7 +64,5 @@ float: left;
 }
 
 .box {
-margin: 50px;
-border: thin solid black;
 width: 100%;
 }
