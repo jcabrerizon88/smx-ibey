@@ -1,0 +1,71 @@
+* { box-sizing: border-box;}
+
+.clearfix { clear: both; }
+
+div.menu {
+    background-color: #E6E6E6;
+    overflow: auto;
+    white-space: nowrap;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+div.menu a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.menu a:hover {
+    background-color: #777;
+}
+
+img { max-width: 100%; }
+
+input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 30%;
+}
+
+#primera-capa  {
+border: thin solid black;
+margin: 0 auto;
+margin-bottom: 30px;
+margin-top: 30px;
+}
+
+#primera-capa img {
+margin-left: 20px;
+margin-right: 10px;
+height: 95px;
+width: 95px;
+}
+
+
+#content-wapper {
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+
+
+.box-column {
+width: 33%;
+border: thin solid black;
+padding: 40px;
+float: left;
+}
+
+.box {
+margin: 50px;
+border: thin solid black;
+width: 100%;
+}
