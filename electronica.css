@@ -35,6 +35,8 @@ input[type=text]:focus {
     width: 30%;
 }
 
+.img-lazy-load {  width: 100%;}
+
 #primera-capa  {
 margin: 0 auto;
 margin-bottom: 30px;
